@@ -40,8 +40,3 @@ I care about writing maintainable code and turning ideas into practical, real-wo
 
 - LinkedIn: https://www.linkedin.com/in/amir-mahdi-morovati-salar-619b7931b
 - Telegram : https://t.me/Morovati_1
-  
----
-
-<!-- Optional GitHub stats (remove if you don't want them) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=morovati135&show_icons=true&theme=transparent)
